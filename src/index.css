@@ -1,0 +1,19 @@
+@import url(https://db.onlinewebfonts.com/c/3604f4825ccb062a5d820dbc27e48be2?family=Brilliant+Cut+Pro+Medium);
+body {
+  margin: 0;
+  font-family: "Brilliant Cut Pro Medium";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  background-color: #18181b;
+}
+
+code {
+  font-family: "Brilliant Cut Pro Medium";
+    
+}
+strong{
+  font-family: "Brilliant Cut Pro Medium"
+}
